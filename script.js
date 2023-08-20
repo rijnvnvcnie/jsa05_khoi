@@ -32,10 +32,10 @@
 //let dog2 =["C", 5]
 //let doge = [dog1, dog2]
 //console.log(doge)
-let gtc = [
-    ["x", 2],
-    ["dh", 3]
-]
-for(let i =0; i<gtc.length; i++){
-    console.log("gio trai cay: " + gtc[i][0] + gtc[i][1])
-}
+///let gtc = [
+  ///  ["x", 2],
+   /// ["dh", 3]
+//]
+///for(let i =0; i<gtc.length; i++){
+   /// console.log("gio trai cay: " + gtc[i][0] + gtc[i][1])
+//}
