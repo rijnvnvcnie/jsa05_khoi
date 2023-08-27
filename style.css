@@ -1,0 +1,11 @@
+h5{
+    display: flex;
+    justify-content: center;
+}
+h6{
+    display: flex;
+    justify-content: center;
+}
+.imgae-container{
+    font-size: 100px;
+}
